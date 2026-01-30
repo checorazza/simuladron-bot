@@ -5,9 +5,10 @@ from pyautogui import ImageNotFoundException
 pyautogui.FAILSAFE = True
 
 TARGET_IMAGES = [
-    "compra.png",
-    "ensobrar_periodista.png",
+    # "compra.png",
+    # "ensobrar_periodista.png",
     "moneda.png",
+    "milei.png"
 ]
 
 LOOP_DELAY = 0.1
